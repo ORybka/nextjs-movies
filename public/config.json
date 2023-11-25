@@ -1,0 +1,20 @@
+{
+  "useMainBanner": true,
+  "mainGenres": [
+    {
+      "id": 28,
+      "path": "/lp/action/"
+    },
+    {
+      "id": 16,
+      "path": "/lp/animation/"
+    },
+    {
+      "id": 878,
+      "path": "/lp/science-fiction/"
+    }
+  ],
+  "currentGenre": {
+    "id": 28
+  }
+}
