@@ -1,1 +1,14 @@
-This will be a project-example of a similar project I am working on at my current position using NextJS framework
+# This will be a project-example of one of the projects I am working on at my current position using NextJS framework.
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm run dev`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+### `npm run build`
+
+Builds the production version in the `.next` folder.
